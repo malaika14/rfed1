@@ -83,7 +83,7 @@ export default function Footer4() {
                         <div className="footer-top-inner">
                             <figure className="footer-logo"><a href="/index-4"><img src="assets/images/logo-7.png" alt=""/></a></figure>
                             <div className="footer-top-info">
-                                <p>&copy; {new Date().getFullYear()} <Link href="/index-4">Fxvibe.</Link> All Rights Reserved.</p>
+                                <p>&copy; {new Date().getFullYear()} <Link href="/index-4">TM9FX.</Link> All Rights Reserved.</p>
                                 <ul className="footer-nav">
                                     <li><Link href="/index-4">Privacy Policy</Link></li>
                                     <li><Link href="/index-4">Terms & Conditions</Link></li>

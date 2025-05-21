@@ -116,7 +116,7 @@ export default function Footer1() {
                 <div className="auto-container">
                     <div className="bottom-inner">
                         <div className="copyright">
-                            <p>&copy; {new Date().getFullYear()} <a href="/">Fxvibe</a> Made with Expertise, All Rights Reserved.</p>
+                            <p>&copy; {new Date().getFullYear()} <a href="/">TM9FX</a> Made with Expertise, All Rights Reserved.</p>
                         </div>
                         <ul className="footer-nav">
                             <li><Link href="/">Privacy Policy</Link></li>

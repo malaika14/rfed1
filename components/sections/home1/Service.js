@@ -72,7 +72,7 @@ export default function Service() {
                             <div className="inner-box">
                                 <div className="bg-layer" style={{ backgroundImage: "url(assets/images/service/service-5.jpg)" }}></div>
                                 <div className="icon-box"><img src="assets/images/icons/icon-5.png" alt=""/></div>
-                                <h3>Fxvibe <br />Expert Guidance for Financial Rise!...</h3>
+                                <h3>TM9FX <br />Expert Guidance for Financial Rise!...</h3>
                                 <p>Customized Forex Strategy Consultation.</p>
                                 <Link href="/" className="theme-btn"><span>Start Now</span></Link>
                             </div>

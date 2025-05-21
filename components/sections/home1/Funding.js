@@ -21,7 +21,7 @@ export default function Funding() {
             <div className="auto-container">
                 <div className="sec-title">
                     <div className="shape" style={{ backgroundImage: "url(assets/images/shape/shape-4.png)" }}></div>
-                    <h6>Join Fxvibe</h6>
+                    <h6>Join TM9FX</h6>
                     <h2>Enter a trading challenge</h2>
                     <div className="icon-box"><i className="flaticon-live-chat"></i></div>
                 </div>
@@ -30,13 +30,13 @@ export default function Funding() {
                         <div className="col-lg-3 col-md-12 col-sm-12 btns-column">
                             <div className="tab-btn-one">
                                 <ul className="tab-btns tab-buttons clearfix">
-                                    <li className={`tab-btn ${activeTab === '#tab1' ? 'active-btn' : ''}`} onClick={() => handleTabClick('#tab1')}><span>Fxvibe Starter Plan</span></li>
-                                    <li className={`tab-btn ${activeTab === '#tab2' ? 'active-btn' : ''}`} onClick={() => handleTabClick('#tab2')}><span>Standard Plan</span></li>
-                                    <li className={`tab-btn ${activeTab === '#tab3' ? 'active-btn' : ''}`} onClick={() => handleTabClick('#tab3')}><span>Professional Plan</span></li>
-                                    <li className={`tab-btn ${activeTab === '#tab4' ? 'active-btn' : ''}`} onClick={() => handleTabClick('#tab4')}><span>Ultra Plan</span></li>
+                                    <li className={`tab-btn ${activeTab === '#tab1' ? 'active-btn' : ''}`} onClick={() => handleTabClick('#tab1')}><span>TM9FX Standard Plan</span></li>
+                                    <li className={`tab-btn ${activeTab === '#tab2' ? 'active-btn' : ''}`} onClick={() => handleTabClick('#tab2')}><span>PRO Plan</span></li>
+                                    <li className={`tab-btn ${activeTab === '#tab3' ? 'active-btn' : ''}`} onClick={() => handleTabClick('#tab3')}><span>ECN Plan</span></li>
+                                    
                                 </ul>
                             </div>
-                            <div className="payment-system">
+                            <div className="payment-system">,
                                 <h6>We Accept:</h6>
                                 <p>Accept a wide range of cards.</p>
                                 <ul className="card-list clearfix">
@@ -64,21 +64,17 @@ export default function Funding() {
                                                         <div className="col-lg-5 col-md-6 col-sm-12 inner-column">
                                                             <div className="inner-box">
                                                                 <figure className="image-box"><img src="assets/images/resource/vector-2.png" alt=""/></figure>
-                                                                <h2>10k<span>.USD</span></h2>
+                                                                <h2>50<span>$</span></h2>
                                                                 <p>Speed up your trading journey with our single-phase assessment.</p>
                                                                 <Link href="/" className="theme-btn"><span>Start Now</span></Link>
                                                             </div>
                                                         </div>
                                                         <div className="col-lg-7 col-md-6 col-sm-12 trading-column">
                                                             <ul className="trading-list clearfix">
-                                                                <li>Target<span>$800</span></li>
-                                                                <li>Min.Trading Days<span>5 Days</span></li>
-                                                                <li>Daily Drawdown<span>5%</span></li>
-                                                                <li>Max.Drawdown<span>10%</span></li>
-                                                                <li>Trading Period<span>No Limit</span></li>
-                                                                <li>Refundable Fee<span>$99 O/T</span></li>
-                                                                <li>Leverage<span>Up to 1:100</span></li>
-                                                                <li>Monthly Fees<span>No Fees</span></li>
+                                                                <li>Minimal Initial Deposit<span>$10</span></li>
+                                                                <li>Spread<span>0.30</span></li>
+                                                                <li>Commission<span>00</span></li>
+                                                               
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -128,21 +124,17 @@ export default function Funding() {
                                                         <div className="col-lg-5 col-md-6 col-sm-12 inner-column">
                                                             <div className="inner-box">
                                                                 <figure className="image-box"><img src="assets/images/resource/vector-2.png" alt=""/></figure>
-                                                                <h2>30k<span>.USD</span></h2>
+                                                                <h2>500<span>$</span></h2>
                                                                 <p>Speed up your trading journey with our single-phase assessment.</p>
                                                                 <Link href="/" className="theme-btn"><span>Start Now</span></Link>
                                                             </div>
                                                         </div>
                                                         <div className="col-lg-7 col-md-6 col-sm-12 trading-column">
                                                             <ul className="trading-list clearfix">
-                                                                <li>Target<span>$2400</span></li>
-                                                                <li>Min.Trading Days<span>5 Days</span></li>
-                                                                <li>Daily Drawdown<span>5%</span></li>
-                                                                <li>Max.Drawdown<span>10%</span></li>
-                                                                <li>Trading Period<span>No Limit</span></li>
-                                                                <li>Refundable Fee<span>$99 O/T</span></li>
-                                                                <li>Leverage<span>Up to 1:100</span></li>
-                                                                <li>Monthly Fees<span>No Fees</span></li>
+                                                                <li>Minimal Initial Deposit<span>$500</span></li>
+                                                                <li>Spread<span>0.20</span></li>
+                                                                <li>Commission<span>00</span></li>
+                                                                
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -192,21 +184,17 @@ export default function Funding() {
                                                         <div className="col-lg-5 col-md-6 col-sm-12 inner-column">
                                                             <div className="inner-box">
                                                                 <figure className="image-box"><img src="assets/images/resource/vector-2.png" alt=""/></figure>
-                                                                <h2>50k<span>.USD</span></h2>
+                                                                <h2>1000<span>$</span></h2>
                                                                 <p>Speed up your trading journey with our single-phase assessment.</p>
                                                                 <Link href="/" className="theme-btn"><span>Start Now</span></Link>
                                                             </div>
                                                         </div>
                                                         <div className="col-lg-7 col-md-6 col-sm-12 trading-column">
                                                             <ul className="trading-list clearfix">
-                                                                <li>Target<span>$4000</span></li>
-                                                                <li>Min.Trading Days<span>5 Days</span></li>
-                                                                <li>Daily Drawdown<span>5%</span></li>
-                                                                <li>Max.Drawdown<span>10%</span></li>
-                                                                <li>Trading Period<span>No Limit</span></li>
-                                                                <li>Refundable Fee<span>$99 O/T</span></li>
-                                                                <li>Leverage<span>Up to 1:100</span></li>
-                                                                <li>Monthly Fees<span>No Fees</span></li>
+                                                                <li>Minimal Initial Deposit<span>$1000</span></li>
+                                                                <li>Spread<span>0.10</span></li>
+                                                                <li>Commission<span>00</span></li>
+                                                               
                                                             </ul>
                                                         </div>
                                                     </div>

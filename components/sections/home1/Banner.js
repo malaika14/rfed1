@@ -68,7 +68,8 @@ export default function Banner() {
                         <div className="row clearfix">
                             <div className="col-lg-6 col-md-12 col-sm-12 content-column">
                                 <div className="content-box">
-                                    <h6>Welcome to FXVibe</h6>
+                                    <h6>Welcome to TM9FX
+                                    </h6>
                                     <h2>Realizing <br />forex potential, one trade at <br />a time!..</h2>
                                     <div className="btn-box">
                                         <Link href="/" className="theme-btn btn-one"><span>Start Trading</span></Link>

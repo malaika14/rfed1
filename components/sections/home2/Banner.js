@@ -8,7 +8,7 @@ export default function Banner() {
             <div className="outer-container">
                 <div className="inner-box">
                     <div className="content-box">
-                        <h6>Welcome to FXVibe</h6>
+                        <h6>Welcome to TM9FX</h6>
                         <h2>Navigate <span>Markets</span> with Confidence</h2>
                         <h5>Download Mobile App</h5>
                         <ul className="download-list">
