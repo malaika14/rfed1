@@ -110,7 +110,7 @@ export default function Testimonial() {
                         </SwiperSlide>
                         <SwiperSlide>
                             <div className="testimonial-block-two">
-                                <h5>Fxvibe Changed My Life!</h5>
+                                <h5>TM9FX Changed My Life!</h5>
                                 <div className="inner-box">
                                     <div className="author-box">
                                         <figure className="thumb-box"><img src="assets/images/resource/testimonial-5.png" alt=""/></figure>

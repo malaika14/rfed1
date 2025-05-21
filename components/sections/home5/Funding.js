@@ -21,7 +21,7 @@ export default function Funding() {
             <div className="auto-container">
                 <div className="sec-title">
                     <div className="shape" style={{ backgroundImage: "url(assets/images/shape/shape-4.png)" }}></div>
-                    <h6>Join Fxvibe</h6>
+                    <h6>Join TM9FX</h6>
                     <h2>Enter a trading challenge</h2>
                     <div className="icon-box"><i className="flaticon-live-chat"></i></div>
                 </div>
@@ -30,7 +30,7 @@ export default function Funding() {
                         <div className="col-lg-3 col-md-12 col-sm-12 btns-column">
                             <div className="tab-btn-one">
                                 <ul className="tab-btns tab-buttons clearfix">
-                                    <li className={`tab-btn ${activeTab === '#tab1' ? 'active-btn' : ''}`} onClick={() => handleTabClick('#tab1')}><span>Fxvibe Starter Plan</span></li>
+                                    <li className={`tab-btn ${activeTab === '#tab1' ? 'active-btn' : ''}`} onClick={() => handleTabClick('#tab1')}><span>TM9FX Starter Plan</span></li>
                                     <li className={`tab-btn ${activeTab === '#tab2' ? 'active-btn' : ''}`} onClick={() => handleTabClick('#tab2')}><span>Standard Plan</span></li>
                                     <li className={`tab-btn ${activeTab === '#tab3' ? 'active-btn' : ''}`} onClick={() => handleTabClick('#tab3')}><span>Professional Plan</span></li>
                                     <li className={`tab-btn ${activeTab === '#tab4' ? 'active-btn' : ''}`} onClick={() => handleTabClick('#tab4')}><span>Ultra Plan</span></li>

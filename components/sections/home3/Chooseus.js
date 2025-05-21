@@ -28,7 +28,7 @@ export default function Chooseus() {
                             <div className="image-box">
                                 <figure className="image"><img src="assets/images/resource/chooseus-1.jpg" alt=""/></figure>
                                 <div className="shape" style={{ backgroundImage: "url(assets/images/shape/shape-20.png)" }}></div>
-                                <span className="big-text">Fxvibe</span>
+                                <span className="big-text">TM9FX</span>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-12 col-sm-12 right-column">

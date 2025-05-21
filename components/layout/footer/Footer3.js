@@ -176,7 +176,7 @@ export default function Footer3() {
                 <div className="auto-container">
                     <div className="bottom-inner">
                         <div className="copyright">
-                            <p>&copy; {new Date().getFullYear()} <a href="index.html">Fxvibe</a> Made with Expertise, All Rights Reserved.</p>
+                            <p>&copy; {new Date().getFullYear()} <a href="index.html">TM9FX</a> Made with Expertise, All Rights Reserved.</p>
                         </div>
                         <ul className="footer-nav">
                             <li><Link href="/index-3">Privacy Policy</Link></li>

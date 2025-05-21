@@ -43,11 +43,11 @@ export default function Offer() {
                                     <div className="icon-box"><i className="flaticon-right-arrow-1"></i></div>
                                     <div className={isActive.key == 1 ? "acc-btn active" : "acc-btn"} onClick={() => handleToggle(1)}>
                                         <h5>01</h5>
-                                        <h3>Proprietary Trading Accounts</h3>
+                                        <h3>Proprietary Trading Accounts</h3>,
                                     </div>
                                     <div className={isActive.key == 1 ? "acc-content current" : "acc-content"}>
                                         <div className="text">
-                                            <p>Step into the realm of financial wizardry with Fxvibe Funding an trading oasis that nurtures the brilliance of skilled.</p>
+                                            <p>Step into the realm of financial wizardry with TM9FX Funding an trading oasis that nurtures the brilliance of skilled.</p>
                                             <ul className="links-list clearfix">
                                                 <li><Link href="/index-5">Mini Account</Link></li>
                                                 <li><Link href="/index-5">Demo Account</Link></li>
@@ -66,7 +66,7 @@ export default function Offer() {
                                     </div>
                                     <div className={isActive.key == 2 ? "acc-content current" : "acc-content"}>
                                         <div className="text">
-                                            <p>Step into the realm of financial wizardry with Fxvibe Funding an trading oasis that nurtures the brilliance of skilled.</p>
+                                            <p>Step into the realm of financial wizardry with TM9FX Funding an trading oasis that nurtures the brilliance of skilled.</p>
                                             <ul className="links-list clearfix">
                                                 <li><Link href="/index-5">Mini Account</Link></li>
                                                 <li><Link href="/index-5">Demo Account</Link></li>
@@ -85,7 +85,7 @@ export default function Offer() {
                                     </div>
                                     <div className={isActive.key == 3 ? "acc-content current" : "acc-content"}>
                                         <div className="text">
-                                            <p>Step into the realm of financial wizardry with Fxvibe Funding an trading oasis that nurtures the brilliance of skilled.</p>
+                                            <p>Step into the realm of financial wizardry with TM9FX Funding an trading oasis that nurtures the brilliance of skilled.</p>
                                             <ul className="links-list clearfix">
                                                 <li><Link href="/index-5">Mini Account</Link></li>
                                                 <li><Link href="/index-5">Demo Account</Link></li>

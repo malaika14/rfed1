@@ -219,7 +219,7 @@ export default function Footer5() {
                     </div>
                 </div>
                 <div className="footer-bottom centred">
-                    <p>&copy; {new Date().getFullYear()} <Link href="/index-5">Fxvibe</Link> Made with Expertise, All Rights Reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} <Link href="/index-5">TM9FX</Link> Made with Expertise, All Rights Reserved.</p>
                 </div>
             </footer>
         </div>

@@ -14,7 +14,7 @@ export default function Funding() {
       <section className="funding-style-two bg-color-3 sec-pad">
             <div className="auto-container">
                 <div className="sec-title centred light">
-                    <h6>Join Fxvibe</h6>
+                    <h6>Join TM9FX</h6>
                     <h2>Enter a trading challenge</h2>
                 </div>
                 <div className="tabs-box">

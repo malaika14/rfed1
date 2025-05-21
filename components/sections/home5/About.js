@@ -6,7 +6,7 @@ export default function About() {
         <section className="about-style-four sec-pad centred">
             <div className="auto-container">
                 <div className="sec-title">
-                    <h6>About FXvibe</h6>
+                    <h6>About TM9FX</h6>
                     <h2>Pioneers in <br />proprietary forex trading</h2>
                 </div>
                 <div className="inner-box">

@@ -19,7 +19,7 @@ export default function Platform() {
                         <div className="content-box">
                             <div className="sec-title">
                                 <h6>Platform</h6>
-                                <h2>Use MT4? Get exclusive tools with Fxvibe</h2>
+                                <h2>Use MT4? Get exclusive tools with TM9FX</h2>
                             </div>
                             <div className="text-box">
                                 <p>Denouncing pleasure and praising pain was born and  will give you a complete account of the system, and expound the actual teachings .</p>

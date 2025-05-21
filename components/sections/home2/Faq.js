@@ -46,13 +46,13 @@ export default function Faq() {
                             <ul className="accordion-box">
                                 <li className={isActive.key == 1 ? "accordion block current" : "accordion"}>
                                     <div className={isActive.key == 1 ? "acc-btn active" : "acc-btn"} onClick={() => handleToggle(1)}>
-                                        <h5>Does Fxvibe have a good reputation?</h5>
+                                        <h5>Does TM9FX have a good reputation?</h5>
                                     </div>
                                     <div className={isActive.key == 1 ? "acc-content current" : "acc-content"}>
                                         <div className="text">
                                             <p>Trouble that are bound to ensue and equal blame belongs to those who fail in their duty through weakness.</p>
                                         </div>
-                                    </div>
+                                    </div>,
                                 </li>
                                 <li className={isActive.key == 2 ? "accordion block current" : "accordion"}>
                                     <div className={isActive.key == 2 ? "acc-btn active" : "acc-btn"} onClick={() => handleToggle(2)}>

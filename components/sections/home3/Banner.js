@@ -64,7 +64,7 @@ export default function Banner() {
                     <div className="auto-container">
                         <div className="content-box">
                             <div className="icon-box"><img src="assets/images/icons/icon-32.png" alt=""/></div>
-                            <h6>Welcome to FXVibe</h6>
+                            <h6>Welcome to TM9FX</h6>
                             <h2>Maximizing Gains <br />Empowering Traders.</h2>
                             <p>Unleashing Profit Potential, One Trade at a Time.</p>
                             <div className="btn-box">

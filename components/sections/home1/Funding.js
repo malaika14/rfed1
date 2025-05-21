@@ -133,7 +133,7 @@ export default function Funding() {
                                                             <ul className="trading-list clearfix">
                                                                 <li>Minimal Initial Deposit<span>$500</span></li>
                                                                 <li>Spread<span>0.20</span></li>
-                                                                <li>Commission<span>00</span></li>
+                                                                <li>Commission<span>00,,,,</span></li>
                                                                 
                                                             </ul>
                                                         </div>

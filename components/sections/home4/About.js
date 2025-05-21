@@ -35,7 +35,7 @@ export default function About() {
                     <div className="col-lg-6 col-md-12 col-sm-12 content-column">
                         <div className="content-box">
                             <div className="sec-title light">
-                                <h6>About Fxvibe</h6>
+                                <h6>About TM9FX</h6>
                                 <h2>Pioneers in proprietary forex trading</h2>
                             </div>
                             <div className="text-box">
