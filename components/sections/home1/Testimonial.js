@@ -71,7 +71,7 @@ export default function Testimonial() {
                         </div>
                         <div className="col-lg-6 col-md-12 col-sm-12 right-column">
                             <div className="right-content">
-                                <h5><img src="assets/images/icons/icon-15.png" alt=""/>Share your thoughts about FxVibe</h5>
+                                <h5><img src="assets/images/icons/icon-15.png" alt=""/>Share your thoughts about TM9FX</h5>
                                 <div className="link"><Link href="/"><i className="flaticon-right-arrow"></i></Link></div>
                             </div>
                         </div>
