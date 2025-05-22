@@ -54,7 +54,7 @@ export default function Funding() {
                                         <div className="tab-btn-two">
                                             <ul className="tab-btns tab-buttons-2 clearfix">
                                                 <li className={`tab-btn ${subActiveTab === '#tab1' ? 'active-btn' : ''}`} onClick={() => handleSubTabClick('#tab1')}>1 Step Challenge</li>
-                                                <li className={`tab-btn ${subActiveTab === '#tab2' ? 'active-btn' : ''}`} onClick={() => handleSubTabClick('#tab2')}>2 Step Challenge</li>
+                                                 {/*<li className={`tab-btn ${subActiveTab === '#tab2' ? 'active-btn' : ''}`} onClick={() => handleSubTabClick('#tab2')}>2 Step Challenge</li>*/}
                                             </ul>
                                         </div>
                                         <div className="tabs-content-2">
@@ -114,7 +114,7 @@ export default function Funding() {
                                         <div className="tab-btn-two">
                                             <ul className="tab-btns tab-buttons-2 clearfix">
                                                 <li className={`tab-btn ${subActiveTab === '#tab1' ? 'active-btn' : ''}`} onClick={() => handleSubTabClick('#tab1')}>1 Step Challenge</li>
-                                                <li className={`tab-btn ${subActiveTab === '#tab2' ? 'active-btn' : ''}`} onClick={() => handleSubTabClick('#tab2')}>2 Step Challenge</li>
+                                           {/*  <li className={`tab-btn ${subActiveTab === '#tab2' ? 'active-btn' : ''}`} onClick={() => handleSubTabClick('#tab2')}>2 Step Challenge</li>*/}
                                             </ul>
                                         </div>
                                         <div className="tabs-content-2">
@@ -133,7 +133,7 @@ export default function Funding() {
                                                             <ul className="trading-list clearfix">
                                                                 <li>Minimal Initial Deposit<span>$500</span></li>
                                                                 <li>Spread<span>0.20</span></li>
-                                                                <li>Commission<span>00,,,,</span></li>
+                                                                <li>Commission<span>00</span></li>
                                                                 
                                                             </ul>
                                                         </div>
@@ -174,7 +174,7 @@ export default function Funding() {
                                         <div className="tab-btn-two">
                                             <ul className="tab-btns tab-buttons-2 clearfix">
                                                 <li className={`tab-btn ${subActiveTab === '#tab1' ? 'active-btn' : ''}`} onClick={() => handleSubTabClick('#tab1')}>1 Step Challenge</li>
-                                                <li className={`tab-btn ${subActiveTab === '#tab2' ? 'active-btn' : ''}`} onClick={() => handleSubTabClick('#tab2')}>2 Step Challenge</li>
+                                                {/*<li className={`tab-btn ${subActiveTab === '#tab2' ? 'active-btn' : ''}`} onClick={() => handleSubTabClick('#tab2')}>2 Step Challenge</li>*/}
                                             </ul>
                                         </div>
                                         <div className="tabs-content-2">
@@ -234,7 +234,7 @@ export default function Funding() {
                                         <div className="tab-btn-two">
                                             <ul className="tab-btns tab-buttons-2 clearfix">
                                                 <li className={`tab-btn ${subActiveTab === '#tab1' ? 'active-btn' : ''}`} onClick={() => handleSubTabClick('#tab1')}>1 Step Challenge</li>
-                                                <li className={`tab-btn ${subActiveTab === '#tab2' ? 'active-btn' : ''}`} onClick={() => handleSubTabClick('#tab2')}>2 Step Challenge</li>
+                                               {/* <li className={`tab-btn ${subActiveTab === '#tab2' ? 'active-btn' : ''}`} onClick={() => handleSubTabClick('#tab2')}>2 Step Challenge</li>*/}
                                             </ul>
                                         </div>
                                         <div className="tabs-content-2">
